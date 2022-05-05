@@ -59,7 +59,7 @@ def resetgame():
     konec_okno.destroy()
     pygame.quit()
     while 1:
-        os.system("python snake.py")
+        os.system("python code.py")
         exit()
     quit()
 
